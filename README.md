@@ -1,15 +1,12 @@
 # OpenSource-CS
 
-This repository is a collection/path of free resources for learning fundamentals of Computer Science. The main focus will be on the MIT OpenCourseWare. However, it may include courses and specializations from Coursera and edX.
+This repository is a collection/path of free resources for learning fundamentals of Computer Science. The main focus will be on the MIT OpenCourseWare. However, it may include courses and specializations from Coursera, edX and other useful resources.
 
 ### Introductory
 
 - 6.0001 - Introduction to Computer Science and Programming in Python - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
-
 - 6.01 - Introduction to Electrical Engineering and Computer Science I - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011
-
 - Single Variable Calculus - https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm
-
 - 6.042 - Mathematics for Computer Science - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015
 
 ### Foundations
@@ -30,3 +27,10 @@ This repository is a collection/path of free resources for learning fundamentals
 
 - 6.034 - Artificial Intelligence - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010
 - 6.036 - Machine Learning - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006
+
+
+### Math
+
+Here are some resources if you need to brushup your Algebra before taking any math course above:
+- Algebra by Khan Academy https://www.khanacademy.org/math/algebra-home
+- College Algebra – Learn College Math Prerequisites with this Free 7-Hour Course - https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills
