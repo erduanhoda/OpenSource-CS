@@ -15,7 +15,10 @@ This repository is a collection/path of free resources for learning fundamentals
 ### Foundations
 
 - 6.004 - Computation Structure - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009
+- Algorithms, Part I - https://www.coursera.org/learn/algorithms-part1
+- Algorithms, Part II - https://www.coursera.org/learn/algorithms-part2
 - 6.006 - Introduction to Algorithms - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011
+- Algorithms Specialization - https://www.coursera.org/specializations/algorithms
 
 ### Header
 
