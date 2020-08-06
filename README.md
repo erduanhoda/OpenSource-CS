@@ -31,6 +31,6 @@ This repository is a collection/path of free resources for learning fundamentals
 
 ### Math
 
-Here are some resources if you need to brushup your Algebra before taking any math course above:
+Here are some resources if you need to brush-up your Algebra before taking any math course above:
 - Algebra by Khan Academy https://www.khanacademy.org/math/algebra-home
 - College Algebra – Learn College Math Prerequisites with this Free 7-Hour Course - https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills
