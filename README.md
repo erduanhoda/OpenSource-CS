@@ -4,7 +4,7 @@ This repository is a collection/path of free resources for learning fundamentals
 
 ### Introductory
 
-6.0001 - Introduction to Computer Science and Programming in Python - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+- 6.0001 - Introduction to Computer Science and Programming in Python - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
 
 - 6.01 - Introduction to Electrical Engineering and Computer Science I - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011
 
@@ -23,7 +23,7 @@ This repository is a collection/path of free resources for learning fundamentals
 - 6.033 - Computer System Engineering - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018
 - 6.046 - Design and Analysis of Algorithms - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015
 
-# Advanced
+### Advanced
 
 - 6.034 - Artificial Intelligence - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010
 - 6.036 - Machine Learning - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006
